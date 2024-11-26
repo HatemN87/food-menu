@@ -1,0 +1,4 @@
+.active:focus{
+    border-bottom: 2px solid;
+    font-size: 22px;
+}
